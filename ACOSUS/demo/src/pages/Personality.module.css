@@ -1,0 +1,185 @@
+.menusidebarChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-darkslateblue);
+  width: 1280px;
+  height: 86px;
+}
+.menusidebarItem {
+  position: absolute;
+  top: 86px;
+  left: 0;
+  width: 128px;
+  height: 634px;
+}
+.profile {
+  position: absolute;
+  top: 0;
+  left: 17px;
+}
+.profileIconChild,
+.profileIconInner,
+.profileIconItem {
+  position: absolute;
+  top: 0;
+  left: 0.71px;
+  border-radius: var(--br-8xl-5);
+  background-color: var(--color-dimgray-100);
+  width: 8.57px;
+  height: 9px;
+}
+.profileIconInner,
+.profileIconItem {
+  top: 9.75px;
+  left: 0;
+  border-radius: var(--br-3xl-5);
+  width: 10px;
+  height: 7.5px;
+}
+.profileIconInner {
+  top: 12px;
+  border-radius: var(--br-11xs);
+  height: 6px;
+}
+.profileButton,
+.profileIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 10px;
+  height: 18px;
+}
+.profileButton {
+  top: 102px;
+  left: 23px;
+  width: 66px;
+  height: 19px;
+}
+.settings {
+  position: absolute;
+  top: 0;
+  left: 19px;
+}
+.settingsIconChild,
+.settingsIconInner,
+.settingsIconItem {
+  position: absolute;
+  top: 10px;
+  left: 0;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-gray);
+  width: 14px;
+  height: 4px;
+}
+.settingsIconInner,
+.settingsIconItem {
+  top: 5px;
+}
+.settingsIconInner {
+  top: 0;
+}
+.settingsButton,
+.settingsIcon {
+  position: absolute;
+  top: 3px;
+  left: 0;
+  width: 14px;
+  height: 14px;
+}
+.settingsButton {
+  top: 126px;
+  left: 21px;
+  width: 82px;
+  height: 19px;
+}
+.logOut,
+.logoutIcon {
+  position: absolute;
+  top: 0;
+  left: 18px;
+}
+.logoutIcon {
+  left: 0;
+  width: 12px;
+  height: 18px;
+}
+.logOutButton,
+.menusidebar {
+  position: absolute;
+  top: 151px;
+  left: 22px;
+  width: 76px;
+  height: 19px;
+}
+.menusidebar {
+  top: 0;
+  left: 0;
+  width: 1280px;
+  height: 720px;
+  font-size: var(--font-size-base);
+}
+.neiu,
+.takeexamChild {
+  position: absolute;
+  top: 24px;
+  left: 28px;
+}
+.takeexamChild {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-lgi);
+  background-color: var(--color-darkslateblue);
+  width: 201px;
+  height: 81px;
+}
+.takeExam {
+  position: absolute;
+  top: 19px;
+  left: calc(50% - 116.5px);
+  display: inline-block;
+  width: 256px;
+  height: 32px;
+}
+.resultOption,
+.takeexam {
+  position: absolute;
+  top: 253px;
+  left: 260px;
+  width: 279px;
+  height: 81px;
+  cursor: pointer;
+}
+.resultOption {
+  top: 5px;
+  left: 1px;
+  background-color: var(--color-gainsboro);
+  width: 484px;
+  height: 544px;
+}
+.image4Icon,
+.resultsSelection {
+  position: absolute;
+  width: 485px;
+  height: 553px;
+}
+.image4Icon {
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+.resultsSelection {
+  top: 140px;
+  left: 727px;
+}
+.personality {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 720px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

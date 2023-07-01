@@ -1,0 +1,141 @@
+.createaccountChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  width: 1280px;
+  height: 720px;
+}
+.createaccountItem {
+  position: absolute;
+  top: 119px;
+  left: -124px;
+  border-radius: var(--br-7xl);
+  background-color: var(--color-whitesmoke);
+  width: 1224px;
+  height: 588px;
+}
+.createaccountInner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-darkslateblue);
+  width: 1280px;
+  height: 86px;
+}
+.neiu {
+  position: absolute;
+  top: 24px;
+  left: 28px;
+  font-size: var(--font-size-13xl);
+}
+.loginGroupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-14xl);
+  background-color: var(--color-gainsboro);
+  width: 433px;
+  height: 310px;
+}
+.firstName {
+  position: absolute;
+  top: 78px;
+  left: 29px;
+}
+.loginGroupItem,
+.username {
+  position: absolute;
+  top: 25px;
+  left: 27px;
+}
+.loginGroupItem {
+  top: 44px;
+  left: 28px;
+  background-color: var(--color-white);
+  width: 156px;
+  height: 20px;
+}
+.loginGroupInner,
+.password {
+  position: absolute;
+  top: 193px;
+  left: 27px;
+}
+.loginGroupInner {
+  top: 212px;
+  left: 28px;
+  background-color: var(--color-white);
+  width: 156px;
+  height: 20px;
+}
+.reTypePassword,
+.rectangleDiv {
+  position: absolute;
+  top: 250px;
+  left: 27px;
+}
+.rectangleDiv {
+  top: 269px;
+  left: 28px;
+  background-color: var(--color-white);
+  width: 156px;
+  height: 20px;
+}
+.lastName {
+  position: absolute;
+  top: 136px;
+  left: 27px;
+}
+.loginGroupChild1,
+.loginGroupChild2 {
+  position: absolute;
+  top: 155px;
+  left: 28px;
+  background-color: var(--color-white);
+  width: 156px;
+  height: 20px;
+}
+.loginGroupChild2 {
+  top: 98px;
+}
+.loginGroup {
+  position: absolute;
+  top: 134px;
+  left: 51px;
+  width: 433px;
+  height: 310px;
+}
+.loginButtonChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-darkslateblue);
+  width: 59px;
+  height: 22px;
+}
+.create,
+.loginButton {
+  position: absolute;
+  top: 0;
+  left: 3px;
+}
+.loginButton {
+  top: 403px;
+  left: 267px;
+  width: 59px;
+  height: 22px;
+  cursor: pointer;
+}
+.createaccount {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 720px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

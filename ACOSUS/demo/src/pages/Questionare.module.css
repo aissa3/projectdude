@@ -1,0 +1,329 @@
+.circlesIcon,
+.question6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.question6 {
+  display: inline-block;
+  width: 917.4px;
+  height: 36.84px;
+}
+.circlesIcon {
+  width: 751.61px;
+  height: 48.63px;
+}
+.div,
+.div1,
+.div2,
+.div3,
+.div4,
+.div5,
+.div6,
+.div7,
+.div8,
+.div9 {
+  position: absolute;
+  top: 2.95px;
+  left: 0;
+  display: inline-block;
+  width: 18.42px;
+  height: 22.11px;
+}
+.div1,
+.div2,
+.div3,
+.div4,
+.div5,
+.div6,
+.div7,
+.div8,
+.div9 {
+  top: 3.68px;
+  left: 78.11px;
+}
+.div2,
+.div3,
+.div4,
+.div5,
+.div6,
+.div7,
+.div8,
+.div9 {
+  top: 2.21px;
+  left: 154.01px;
+}
+.div3,
+.div4,
+.div5,
+.div6,
+.div7,
+.div8,
+.div9 {
+  top: 2.95px;
+  left: 233.59px;
+}
+.div4,
+.div5,
+.div6,
+.div7,
+.div8,
+.div9 {
+  top: 4.42px;
+  left: 311.7px;
+}
+.div5,
+.div6,
+.div7,
+.div8,
+.div9 {
+  top: 0.74px;
+  left: 391.28px;
+}
+.div6,
+.div7,
+.div8,
+.div9 {
+  top: 1.47px;
+  left: 469.39px;
+}
+.div7,
+.div8,
+.div9 {
+  top: 0;
+  left: 545.28px;
+}
+.div8,
+.div9 {
+  top: 0.74px;
+  left: 624.86px;
+}
+.div9 {
+  top: 2.21px;
+  left: 702.97px;
+  width: 25.79px;
+}
+.numbers,
+.numsBoxes {
+  position: absolute;
+  top: 56px;
+  left: 15.47px;
+  width: 728.76px;
+  height: 26.53px;
+}
+.numsBoxes {
+  top: 67.79px;
+  left: 83.27px;
+  width: 751.61px;
+  height: 82.53px;
+  cursor: pointer;
+}
+.q2,
+.q3,
+.q4,
+.q5,
+.q6 {
+  position: absolute;
+  top: 3539px;
+  left: 231px;
+  width: 917.4px;
+  height: 150.32px;
+}
+.q2,
+.q3,
+.q4,
+.q5 {
+  top: 2899px;
+}
+.q2,
+.q3,
+.q4 {
+  top: 2259px;
+}
+.q2,
+.q3 {
+  top: 1619px;
+}
+.q2 {
+  top: 979px;
+  left: 245px;
+}
+.question11 {
+  margin: 0;
+}
+.q1 {
+  position: absolute;
+  top: 339px;
+  left: 245px;
+  width: 917.4px;
+  height: 150.32px;
+}
+.loginButtonChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-darkslateblue);
+  width: 64px;
+  height: 22px;
+}
+.submit {
+  position: absolute;
+  top: 1px;
+  left: 4px;
+  display: inline-block;
+  width: 94px;
+}
+.loginButton {
+  position: absolute;
+  top: 4152px;
+  left: 607px;
+  width: 98px;
+  height: 22px;
+  cursor: pointer;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+}
+.menusidebarChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-darkslateblue);
+  width: 1280px;
+  height: 86px;
+}
+.menusidebarItem {
+  position: absolute;
+  top: 86px;
+  left: 0;
+  width: 128px;
+  height: 634px;
+}
+.profile {
+  position: absolute;
+  top: 0;
+  left: 17px;
+}
+.profileIconChild,
+.profileIconInner,
+.profileIconItem {
+  position: absolute;
+  top: 0;
+  left: 0.71px;
+  border-radius: var(--br-8xl-5);
+  background-color: var(--color-dimgray-100);
+  width: 8.57px;
+  height: 9px;
+}
+.profileIconInner,
+.profileIconItem {
+  top: 9.75px;
+  left: 0;
+  border-radius: var(--br-3xl-5);
+  width: 10px;
+  height: 7.5px;
+}
+.profileIconInner {
+  top: 12px;
+  border-radius: var(--br-11xs);
+  height: 6px;
+}
+.profileButton,
+.profileIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 10px;
+  height: 18px;
+}
+.profileButton {
+  top: 102px;
+  left: 23px;
+  width: 66px;
+  height: 19px;
+  cursor: pointer;
+}
+.settings {
+  position: absolute;
+  top: 0;
+  left: 19px;
+}
+.settingsIconChild,
+.settingsIconInner,
+.settingsIconItem {
+  position: absolute;
+  top: 10px;
+  left: 0;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-gray);
+  width: 14px;
+  height: 4px;
+}
+.settingsIconInner,
+.settingsIconItem {
+  top: 5px;
+}
+.settingsIconInner {
+  top: 0;
+}
+.settingsButton,
+.settingsIcon {
+  position: absolute;
+  top: 3px;
+  left: 0;
+  width: 14px;
+  height: 14px;
+}
+.settingsButton {
+  top: 126px;
+  left: 21px;
+  width: 82px;
+  height: 19px;
+  cursor: pointer;
+}
+.logOut {
+  position: absolute;
+  top: 0;
+  left: 18px;
+}
+.logOutButton,
+.logoutIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 12px;
+  height: 18px;
+}
+.logOutButton {
+  top: 151px;
+  left: 22px;
+  width: 76px;
+  height: 19px;
+  cursor: pointer;
+}
+.menusidebar,
+.neiu {
+  position: absolute;
+  top: 24px;
+  left: 28px;
+  font-size: var(--font-size-13xl);
+}
+.menusidebar {
+  top: 0;
+  left: 0;
+  width: 1280px;
+  height: 720px;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+}
+.questionare {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 5000px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 23.58px;
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

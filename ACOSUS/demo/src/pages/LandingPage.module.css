@@ -1,0 +1,188 @@
+.landingpageChild,
+.landingpageItem {
+  position: absolute;
+  top: 245px;
+  left: 921px;
+  background-color: var(--color-gainsboro);
+  width: 145px;
+  height: 25px;
+}
+.landingpageItem {
+  top: 325px;
+  width: 205px;
+  height: 19px;
+  cursor: pointer;
+}
+.landingpageChild1,
+.landingpageInner,
+.rectangleDiv {
+  position: absolute;
+  top: 285px;
+  left: 921px;
+  background-color: var(--color-gainsboro);
+  width: 215px;
+  height: 23px;
+}
+.landingpageChild1,
+.rectangleDiv {
+  top: 248px;
+  left: 923px;
+  width: 134px;
+  height: 22px;
+}
+.landingpageChild1 {
+  top: 0;
+  left: 0;
+  width: 1280px;
+  height: 720px;
+}
+.landingpageChild2 {
+  position: absolute;
+  top: 111px;
+  left: 160px;
+  border-radius: var(--br-7xl);
+  background-color: var(--color-whitesmoke);
+  width: 1092px;
+  height: 588px;
+}
+.computerScience {
+  position: absolute;
+  top: 181px;
+  left: 396px;
+  font-weight: 300;
+  color: var(--color-dimgray-200);
+}
+.landingpageChild3 {
+  position: absolute;
+  top: 132px;
+  left: 184px;
+  background-color: var(--color-gainsboro);
+  width: 190px;
+  height: 190px;
+}
+.johnDoe,
+.rectangleIcon {
+  position: absolute;
+  top: 137px;
+}
+.rectangleIcon {
+  left: 189px;
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+}
+.johnDoe {
+  left: 396px;
+  font-size: 36px;
+  font-weight: 800;
+  color: var(--color-dimgray-200);
+}
+.menusidebarChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-darkslateblue);
+  width: 1280px;
+  height: 86px;
+}
+.menusidebarItem {
+  position: absolute;
+  top: 86px;
+  left: 0;
+  width: 128px;
+  height: 634px;
+}
+.profileButton,
+.settingsButton {
+  position: absolute;
+  top: 102px;
+  left: 23px;
+}
+.settingsButton {
+  top: 126px;
+  left: 21px;
+}
+.logOutButton,
+.menusidebar {
+  position: absolute;
+  top: 151px;
+  left: 22px;
+}
+.menusidebar {
+  top: 0;
+  left: 0;
+  width: 1280px;
+  height: 720px;
+}
+.checklist,
+.landingpageChild4 {
+  position: absolute;
+  top: 166px;
+  left: 898px;
+  border-radius: var(--br-lgi);
+  background-color: var(--color-gainsboro);
+  width: 289px;
+  height: 355px;
+}
+.landingpageChild4 {
+  background-color: var(--color-darkslateblue);
+  height: 53px;
+}
+.checkList,
+.neiu {
+  position: absolute;
+  color: var(--color-white);
+}
+.neiu {
+  top: 24px;
+  left: 28px;
+  font-size: var(--font-size-13xl);
+}
+.checkList {
+  top: 183px;
+  left: 1003px;
+}
+.compdemoChild,
+.completeDemographicInfo {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 212px;
+  height: 23px;
+}
+.compdemoChild {
+  background-color: var(--color-gainsboro);
+}
+.completeDemographicInfo {
+  display: inline-block;
+}
+.compdemo,
+.comppers,
+.compquest {
+  cursor: pointer;
+  text-decoration: none;
+  position: absolute;
+  top: 245px;
+  left: 937px;
+  width: 212px;
+  height: 23px;
+  color: inherit;
+}
+.comppers,
+.compquest {
+  top: 285px;
+}
+.compquest {
+  top: 325px;
+}
+.landingpage {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 720px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

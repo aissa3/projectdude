@@ -1,0 +1,207 @@
+.menusidebarChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #1f4f97;
+  width: 1280px;
+  height: 86px;
+}
+p {
+  text-align: center;
+  color:black;
+  padding-left:160px;
+}
+.menusidebarItem {
+  position: absolute;
+  top: 86px;
+  left: 0;
+  width: 128px;
+  height: 634px;
+}
+.profile {
+  position: absolute;
+  top: 0;
+  left: 17px;
+}
+.profileIconChild,
+.profileIconInner,
+.profileIconItem {
+  position: absolute;
+  top: 0;
+  left: 0.71px;
+  border-radius: 27.5px;
+  background-color: var(--color-dimgray);
+  width: 8.57px;
+  height: 9px;
+}
+.profileIconInner,
+.profileIconItem {
+  top: 9.75px;
+  left: 0;
+  border-radius: 22.5px;
+  width: 10px;
+  height: 7.5px;
+}
+.profileIconInner {
+  top: 12px;
+  border-radius: 2px;
+  height: 6px;
+}
+.profileButton,
+.profileIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 10px;
+  height: 18px;
+}
+.profileButton {
+  top: 102px;
+  left: 23px;
+  width: 66px;
+  height: 19px;
+}
+.settings {
+  position: absolute;
+  top: 0;
+  left: 19px;
+}
+.settingsIconChild,
+.settingsIconInner,
+.settingsIconItem {
+  position: absolute;
+  top: 10px;
+  left: 0;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-gray);
+  width: 14px;
+  height: 4px;
+}
+.settingsIconInner,
+.settingsIconItem {
+  top: 5px;
+}
+.settingsIconInner {
+  top: 0;
+}
+.settingsButton,
+.settingsIcon {
+  position: absolute;
+  top: 3px;
+  left: 0;
+  width: 14px;
+  height: 14px;
+}
+.settingsButton {
+  top: 126px;
+  left: 21px;
+  width: 82px;
+  height: 19px;
+}
+.logOut {
+  position: absolute;
+  top: 0;
+  left: 18px;
+}
+.logOutButton,
+.logoutIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 12px;
+  height: 18px;
+}
+.logOutButton {
+  top: 151px;
+  left: 22px;
+  width: 76px;
+  height: 19px;
+}
+.neiuDemographicInformation {
+  margin: 0;
+}
+.neiuDemographicInformationContainer {
+  position: absolute;
+  top: 24px;
+  left: 28px;
+  font-size: 32px;
+}
+.menusidebar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1280px;
+  height: 720px;
+}
+.demographic {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 720px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  z-index: 1;
+  padding: 20px;
+}
+
+
+
+.formContainer {
+  width: 400px; /* Adjust the width as needed */
+  position: relative;
+  z-index: 2;
+}
+
+.sampleForm {
+  /* ... existing form styles ... */
+  text-align: center;
+}
+
+
+
+/* Demographic.module.css */
+
+.demographics ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.demographics li {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.demographicsLabel {
+  flex-basis: 150px; /* Adjust the width as needed */
+  text-align: right;
+  margin-right: 10px;
+   font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.demographics li select,
+.demographics li input[type="text"] {
+  flex: 1;
+}
+
+.demographics label {
+  flex-basis: 150px; /* Adjust the width as needed */
+  text-align: right;
+  margin-right: 10px;
+}
+
+.demographics select,
+.demographics input[type="text"] {
+  flex: 1;
+}
+
+  
